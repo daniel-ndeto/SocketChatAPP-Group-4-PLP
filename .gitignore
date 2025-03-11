@@ -12,8 +12,3 @@ dist/
 *.log
 
 # Temporarily ignore the frontend folder
-frontend/
-
-README.MD
-
-assets/
