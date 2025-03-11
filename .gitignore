@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Environment variables
+*.env
+
+# Build directories
+build/
+dist/
+
+# Log files
+*.log
+
+# Temporarily ignore the frontend folder
