@@ -1,0 +1,9 @@
+body {
+  @apply bg-gray-100;
+}
+
+@media (min-width: 768px) {
+  .container {
+    @apply mx-auto;
+  }
+}
